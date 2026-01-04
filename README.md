@@ -1,3 +1,9 @@
+## Jenkins CI/CD Learning Project
+
+This is a learning project based on official Jenkins pipeline examples.
+I used this project to understand CI/CD workflows, Jenkins pipelines,
+and basic DevOps concepts as part of my learning.
+
 # Introduction
 
 This repository is a home for snippets, tips and tricks and examples of scripting for the [Jenkins Pipeline plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md).
